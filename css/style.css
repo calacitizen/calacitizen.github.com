@@ -292,5 +292,5 @@ td { vertical-align: top; }
   h2, h3 { page-break-after: avoid; }
 }
 .main {
-  background: #333;
+  background-color: #333;
 }
